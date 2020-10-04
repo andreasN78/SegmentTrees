@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/antreas/Desktop/Polidiastates/Θέμα7 Segment and Intervals(Τελικό)/Segment/src/main/scala/target/scala-2.12/scala_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Θέμα7 Segment and Intervals(Τελικό)/Segment/src/main/scala/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Range$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Θέμα7 Segment and Intervals(Τελικό)/Segment/src/main/scala/target/scala-2.12/classes/Range$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SegmentTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Θέμα7 Segment and Intervals(Τελικό)/Segment/src/main/scala/target/scala-2.12/classes/SegmentTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Θέμα7 Segment and Intervals(Τελικό)/Segment/src/main/scala/target/scala-2.12/classes/Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Θέμα7 Segment and Intervals(Τελικό)/Segment/src/main/scala/target/scala-2.12/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Leaf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Θέμα7 Segment and Intervals(Τελικό)/Segment/src/main/scala/target/scala-2.12/classes/Leaf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TreeNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Θέμα7 Segment and Intervals(Τελικό)/Segment/src/main/scala/target/scala-2.12/classes/TreeNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Range.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Θέμα7 Segment and Intervals(Τελικό)/Segment/src/main/scala/target/scala-2.12/classes/Range.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Node$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Θέμα7 Segment and Intervals(Τελικό)/Segment/src/main/scala/target/scala-2.12/classes/Node$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Θέμα7 Segment and Intervals(Τελικό)/Segment/src/main/scala/target/scala-2.12/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Leaf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Θέμα7 Segment and Intervals(Τελικό)/Segment/src/main/scala/target/scala-2.12/classes/Leaf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

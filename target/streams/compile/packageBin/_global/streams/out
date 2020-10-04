@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/antreas/Desktop/Polidiastates/Git/Segment/target/scala-2.13/finaltest2_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Git/Segment/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Range$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Git/Segment/target/scala-2.13/classes/Range$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SegmentTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Git/Segment/target/scala-2.13/classes/SegmentTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Git/Segment/target/scala-2.13/classes/Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Git/Segment/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Leaf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Git/Segment/target/scala-2.13/classes/Leaf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TreeNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Git/Segment/target/scala-2.13/classes/TreeNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Range.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Git/Segment/target/scala-2.13/classes/Range.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Node$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Git/Segment/target/scala-2.13/classes/Node$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Git/Segment/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Leaf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/antreas/Desktop/Polidiastates/Git/Segment/target/scala-2.13/classes/Leaf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
