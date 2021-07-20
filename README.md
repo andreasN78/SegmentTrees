@@ -23,3 +23,5 @@ and then
 for the execution of the program 
 
 The program provides a visualization figure representing Segment trees  using **graphviz** with commands only for linux
+![Minimum](https://user-images.githubusercontent.com/45739821/126292516-38325b13-4aaf-4ff6-b98a-86b8fe6bd094.png)
+![test](https://user-images.githubusercontent.com/45739821/126292577-c7249abd-9f35-4f17-bf07-b6f7bae56603.png)
